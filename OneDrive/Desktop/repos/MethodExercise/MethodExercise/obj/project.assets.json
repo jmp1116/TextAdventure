@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmp11\\source\\repos\\MethodExercise\\MethodExercise\\MethodExercise.csproj",
+      "projectUniqueName": "C:\\Users\\jmp11\\OneDrive\\Desktop\\repos\\MethodExercise\\MethodExercise\\MethodExercise.csproj",
       "projectName": "MethodExercise",
-      "projectPath": "C:\\Users\\jmp11\\source\\repos\\MethodExercise\\MethodExercise\\MethodExercise.csproj",
+      "projectPath": "C:\\Users\\jmp11\\OneDrive\\Desktop\\repos\\MethodExercise\\MethodExercise\\MethodExercise.csproj",
       "packagesPath": "C:\\Users\\jmp11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmp11\\source\\repos\\MethodExercise\\MethodExercise\\obj\\",
+      "outputPath": "C:\\Users\\jmp11\\OneDrive\\Desktop\\repos\\MethodExercise\\MethodExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jmp11\\AppData\\Roaming\\NuGet\\NuGet.Config",
